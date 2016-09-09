@@ -11,3 +11,5 @@
     http://www.csun.edu/~jz710151/cgi-bin/project1.cgi <br>
     you can attache a url as the query string after this url,for example: <br>
     http://www.csun.edu/~jz710151/cgi-bin/project1.cgi?www.csun.edu <br>
+<br>
+Jingjie Zhang 106671199
